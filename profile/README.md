@@ -6,7 +6,7 @@ Welcome to the GitHub home for **Monarch OS**.
 ---
 
 ## 🚀 What is Monarch OS?  
-Monarch OS is a GNU/Linux distribution derived from the Omarchy project and inspired by SkillArch, focused on delivering a powerful system for Security Professionals. Our goal is to make a modular, up-to-date, community-driven OS that help pentesters and bug hunters everyday.
+Monarch OS is a CachyOS-based GNU/Linux distribution inspired by Omarchy and SkillArch, focused on delivering a powerful system for Security Professionals. It ships its own desktop stack — the [Niri](https://github.com/YaLTeR/niri) scrollable-tiling Wayland compositor and the [Noctalia](https://github.com/noctalia-dev/noctalia) (Quickshell) desktop shell. Our goal is to make a modular, up-to-date, community-driven OS that helps pentesters and bug hunters everyday.
 
 ---
 
